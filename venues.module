@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Venues feature.
+ */
+
+include_once 'venues.features.inc';
